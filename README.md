@@ -2,7 +2,7 @@
 
 - 👩‍💻 Graduanda em Análise e Desenvolvimento de SIstemas
 - 📱 Meu foco é desenvolvimento mobile nativo (Android)
-- 👾 Linguagens/Ferramentas que aprendo no momento : Kotlin e Android Studio!
+- 👾 Linguagens/Ferramentas que aprendo no momento : Kotlin, Figma e Android Studio!
 - 📚 Em breve irei estudar : testes unitários, retrofit, arquitetura MVVM, ciclo de vida e arquitetura limpa!
 - 💬 Além disso, pretendo no futuro : desenvolvimento híbrido com Flutter/Dart.
 
