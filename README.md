@@ -2,7 +2,7 @@
 
 - 👩‍💻 Graduanda em Análise e Desenvolvimento de SIstemas
 - 📱 Meu foco é desenvolvimento web backend - NodeJS
-- 👾 Linguagens/Ferramentas que aprendo no momento : NodeJS, Figma e Android Studio!
+- 👾 Linguagens/Ferramentas que aprendo no momento : Javascript, NodeJS!
 - 📚 Em breve irei estudar : testes unitários, arquitetura limpa, POO.
 - 💬 Além disso, pretendo no futuro : desenvolvimento backend com .NET 
 
