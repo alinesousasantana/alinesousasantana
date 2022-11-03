@@ -1,7 +1,7 @@
 ### Olá, seja bem-vindo(a) 🌿
 
 - 👩‍💻 Graduanda em Análise e Desenvolvimento de Sistemas
-- 📱 Meu foco é desenvolvimento front-end.
+- 📱 Meu foco é desenvolvimento backend.
 - 🔎 O que estudo no momento : Javascript
 - 💬 Em breve : NodeJS, Express, Banco de Dados :)
 
