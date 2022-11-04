@@ -1,7 +1,7 @@
 ### Olá, seja bem-vindo(a) 🌿
 
 - 👩‍💻 Graduanda em Análise e Desenvolvimento de Sistemas.
-- 📱 Meu foco é desenvolvimento android nativo.
+- 📱 Meu foco é desenvolvimento mobile android (nativo) com Kotlin.
 - 💬 Em breve : Arquitetura Limpa e MVVM, Java, Ciclo de Vida e Banco de Dados. 
 
 <div align="center">
