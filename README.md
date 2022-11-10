@@ -2,7 +2,7 @@
 
 - 👩‍💻 Graduanda em Análise e Desenvolvimento de Sistemas.
 - 📱 Meu foco é desenvolvimento back end em Javascript (Nodejs).
-- 💬 Em breve : Arquitetura Limpa, Docker, Banco de Dados. 
+- 💬 Em breve : Arquitetura Limpa, Docker, Banco de Dados e Typescript :)
 
 <div align="center">
   <a href="https://github.com/alinesousasantana">
