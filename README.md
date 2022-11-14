@@ -1,8 +1,7 @@
 ### Olá, seja bem-vindo(a) 🌿
 
 - 👩‍💻 Graduanda em Análise e Desenvolvimento de Sistemas.
-- 📱 Meu foco é desenvolvimento back end com Javascript/Nodejs.
-- Obs : Também planejo ampliar conhecimentos para c# :)
+- 📱 Meu foco é desenvolvimento android com Kotlin.
 
 <div align="center">
   <a href="https://github.com/alinesousasantana">
@@ -10,9 +9,15 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinesousasantana&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>       
-  <img align="center" alt="Aline-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Aline-Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Aline-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+          
+  <img align="center" alt="Aline-AndroidS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/>
+  <img align="center" alt="Aline-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
+  <img align="center" alt="Aline-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+          
+          
+          
           
           
 
