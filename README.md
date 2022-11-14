@@ -2,7 +2,7 @@
 
 - 👩‍💻 Graduanda em Análise e Desenvolvimento de Sistemas.
 - 📱 Meu foco é desenvolvimento back end com Javascript/Nodejs.
-- Obs : Também planejo amplicar conhecimentos para c# :)
+- Obs : Também planejo ampliar conhecimentos para c# :)
 
 <div align="center">
   <a href="https://github.com/alinesousasantana">
