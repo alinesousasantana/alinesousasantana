@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  🔮 Em Breve : <strong> IOS Nativo (Swift e também Kotlin).</strong>
+  🔮 Em Breve : <strong> IOS Nativo (Swift).</strong>
 </p>
 
 <p align="left">
