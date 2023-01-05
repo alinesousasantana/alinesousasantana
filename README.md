@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Android Studio, IntelliJ Idea, Vscode (Básico), Figma (UI Design).</strong>
+  💼 Ferramentas: <strong>IntelliJ Idea, Vscode, Figma (UI Design).</strong>
 </p>
 
 <p align="left">
