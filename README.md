@@ -1,20 +1,20 @@
 <img src="https://user-images.githubusercontent.com/116390525/210088746-0cbb450b-00d7-4c79-86b7-3045de75fdeb.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode"> 
 
 <p align="left"> 
-  Olá, tudo bem? Me chamo Aline! 👋 Meu foco é o <strong>desenvolvimento android</strong> 👩‍💻.<br>
+  Olá, tudo bem? Me chamo Aline! 👋 Meu foco é o <strong>desenvolvimento mobile</strong> 👩‍💻.<br>
   Sou graduanda em Análise e Desenvolvimento de Sistemas pela FAMETRO.
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Kotlin.</strong>
+  🦄 Linguagens: <strong>Dart/Flutter.</strong>
 </p>
 
 <p align="left">
-  🔮 Em Breve : <strong>Dart/Flutter, Java.</strong>
+  🔮 Em Breve : <strong> IOS Nativo (Swift e também Kotlin).</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Android Studio, IntelliJ Idea, Vscode (Básico).</strong>
+  💼 Ferramentas: <strong>Android Studio, IntelliJ Idea, Vscode (Básico), Figma (UI Design).</strong>
 </p>
 
 <p align="left">
