@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Dart/Flutter.</strong>
+  🦄 Linguagens: <strong>Dart/Flutter.</strong> (Também possuo Kotlin básico)
 </p>
 
 <p align="left">
