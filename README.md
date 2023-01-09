@@ -6,15 +6,15 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Dart com Flutter.</strong> 
+  🦄 Linguagens: <strong>Kotlin.</strong> 
 </p>
 
 <p align="left">
-  🔮 Em Breve : <strong> IOS Nativo (Swift) e Android Nativo (Kotlin).</strong>
+  🔮 Em Breve : <strong> IOS Nativo (Swift) e Dart/Flutter.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Vscode, Figma (UI Design), Trello, Notion.</strong>
+  💼 Ferramentas: <strong>Figma (UI Design), Trello, Notion.</strong>
 </p>
 
 <p align="left">
