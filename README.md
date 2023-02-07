@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong> Dart/Flutter.</strong> 
+  🦄 Linguagens: <strong> Kotlin.</strong> 
 </p>
 
 <p align="left">
-  🔮 Em Breve : <strong> Nativos (IOS e Android).</strong>
+  🔮 Em Breve : <strong> Nativo IOS/Híbrido (Dart/Flutter).</strong>
 </p>
 
 <p align="left">
