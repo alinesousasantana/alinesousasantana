@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong> Javascript com foco em Node.JS.</strong> 
+  🦄 Linguagens: <strong>Dart com Flutter.</strong> 
 </p>
 
 <p align="left">
-  🔮 Em Breve : <strong> C#/.NET.</strong>
+  🔮 Em Breve : <strong> Nativo Android/IOS.</strong>
 </p>
 
 <p align="left">
