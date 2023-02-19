@@ -1,16 +1,16 @@
 <img src="https://user-images.githubusercontent.com/116390525/210088746-0cbb450b-00d7-4c79-86b7-3045de75fdeb.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode"> 
 
 <p align="left"> 
-  Olá, tudo bem? Me chamo Aline! 👋 Meu foco é o <strong>desenvolvimento back-end</strong> 👩‍💻.<br>
-  Sou graduanda em Análise e Desenvolvimento de Sistemas pela FAMETRO.
+  Olá, tudo bem? Me chamo Aline! 👋 Meu foco é o <strong> Análise de Testes/QA</strong> 👩‍💻.<br>
+  Sou graduanda em Análise e Desenvolvimento de Sistemas pela FAMETRO e aqui irei mostrar meu desenvolvimento com python, que pode agregar com a área. 👩‍💻
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Kotlin.</strong> 
+  🦄 Linguagens: <strong>Python.</strong> 
 </p>
 
 <p align="left">
-  🔮 Em Breve : <strong>Híbrido (Flutter).</strong>
+  🔮 Em Breve : <strong>Javascript/Node.JS.</strong>
 </p>
 
 <p align="left">
