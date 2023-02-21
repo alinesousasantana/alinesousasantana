@@ -13,11 +13,11 @@
 </p>
 
 <p align="left">
-  🔮 Em Breve : <strong>Javascript/Node.JS.</strong>
+  🔮 Em Breve : <strong>Javascript/Java.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Figma (UI Design), Trello, Notion.</strong>
+  💼 Ferramentas: <strong>Trello, Notion.</strong>
 </p>
 
 <p align="left">
