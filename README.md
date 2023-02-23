@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  🔮 Em Breve : <strong>Javascript/Java.</strong>
+  🔮 Em Breve : <strong>Javascript(Cypress)/Java(Selenium).</strong>
 </p>
 
 <p align="left">
