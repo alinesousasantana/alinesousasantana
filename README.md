@@ -9,11 +9,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Python.</strong> 
+  🦄 Linguagens: <strong>Javascript/Cypress.</strong> 
 </p>
 
 <p align="left">
-  🔮 Em Breve : <strong>Javascript(Cypress)/Java(Selenium).</strong>
+  🔮 Em Breve : <strong>Java(Selenium).</strong>
 </p>
 
 <p align="left">
