@@ -1,41 +1,30 @@
-<img src="https://user-images.githubusercontent.com/116390525/210088746-0cbb450b-00d7-4c79-86b7-3045de75fdeb.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode"> 
+## Olá, meu nome é <strong>{Aline Santana}! 👋</strong>
 
-<p align="left"> 
-  Olá, tudo bem? Me chamo Aline! 👋 Meu foco é o <strong> Análise de Testes/QA</strong> 👩‍💻
-  Sou graduanda em Análise e Desenvolvimento de Sistemas pela FAMETRO.<br>
-  </p>
-  <p>
-  Aqui irei mostrar meu desenvolvimento com python, que pode agregar com a área. 👩‍💻
-</p>
-
-<p align="left">
-  🦄 Linguagens: <strong>Javascript/Cypress.</strong> 
-</p>
-
-<p align="left">
-  🔮 Em Breve : <strong>Java(Selenium).</strong>
-</p>
-
-<p align="left">
-  💼 Ferramentas: <strong>Trello, Notion.</strong>
-</p>
-
-<p align="left">
-  💌 Contato : ⤵️
-</p>
+> Sou graduanda em Análise e Desenvolvimento de Sistemas, com foco em Quality Assurrance, aqui irei documentar os projetos sobre. 👩‍💻
 
 
+----
+
+## 🚀 Habilidades (Em desenvolvimento)
+
+
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/></code>
+<code><img height="32" src="https://user-images.githubusercontent.com/116390525/221251732-fd249812-f4bb-48e9-b541-a3ba00c2d49a.svg" alt="Cypress"/></code>
+
+
+## 👀 Habilidades (Em Breve)
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg" alt="PyTest"/></code>
+
+
+
+---
+
+## ⭐ Informações sobre minha conta GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alinesousasantana&show_icons=true)
+
+            
           
           
-          
-
- 
-  
-
-<div> 
-  <a href = "aline.santana.dev10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/aline-sousa-santana-131535256/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-
- 
-</div>
