@@ -1,14 +1,21 @@
 ## Olá, meu nome é <strong>{Aline Santana}! 👋</strong>
 
-> Sou graduanda em Análise e Desenvolvimento de Sistemas, com foco em Quality Assurrance, aqui irei documentar os projetos sobre. 👩‍💻
+> Sou graduanda em Análise e Desenvolvimento de Sistemas, com foco em Desenvolvimento Android, aqui irei documentar os projetos sobre. 👩‍💻
 
 
 ----
 
 ## 🚀 Habilidades (Em desenvolvimento)
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium"/></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="AndroidStudio"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android"/></code>
 
+
+          
+         
+          
+          
+          
 
       
           
@@ -28,8 +35,13 @@
 
 
 ## 👀 Habilidades (Em Breve)
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript"/></code>
-<code><img height="32" src="https://user-images.githubusercontent.com/116390525/229211781-e61de359-3c16-44bc-a5c5-e26c4789c98d.svg" alt="Cypress"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter"/></code>
+
+           
+           
+          
+          
 
 
             
