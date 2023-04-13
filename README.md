@@ -1,22 +1,22 @@
 ## Olá, meu nome é <strong>{Aline Santana}! 👋</strong>
 
-> Sou graduanda em Análise e Desenvolvimento de Sistemas, com foco em Desenvolvimento Mobile, aqui irei documentar os projetos sobre. 👩‍💻
+> Sou graduanda em Análise e Desenvolvimento de Sistemas, com foco em Quality Assurance, aqui irei documentar os projetos sobre. 👩‍💻
 
 
 ----
 
 ## 🚀 Habilidades (Em desenvolvimento)
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin"/></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="AndroidStudio"/></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium"/></code>
 
 
-            
+
+
           
 
-
-           
+            
        
+        
           
           
 
@@ -59,14 +59,20 @@
 
 
           
+          
+          
 
 
 ## 👀 Habilidades (Em Breve)
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart"/></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" alt="Cucumber"/></code>
 
 
 
+
+
+          
            
           
     
