@@ -1,20 +1,20 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá, seja bem-vindo(a)! aqui faço a documentação de todos os projetos de <strong>Quality Assurance</strong>.<br>
+  Olá, seja bem-vindo(a)! aqui faço a documentação de todos os projetos de <strong>Desenvolvimento Android</strong>.<br>
   Graduanda em Análise e Desenvolvimento de Sistemas.
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Ruby</strong>
+  🦄 Linguagens: <strong>Kotlin</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Cucumber, Selenium e Capybara.</strong>
+  💼 Ferramentas: <strong>IntelliJ Idea, Android Studio, Figma.</strong>
 </p>
 
 <p align="left">
-  😎 Conhecimentos em breve (interesse): <strong>Java, Python.</strong>
+  😎 Conhecimentos em breve (interesse): <strong>Java, Dart/Flutter.</strong>
 </p>
 
 <p align="left">
