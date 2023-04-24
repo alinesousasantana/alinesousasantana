@@ -1,117 +1,30 @@
-## Olá, meu nome é <strong>{Aline Santana}! 👋</strong>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-> Sou graduanda em Análise e Desenvolvimento de Sistemas, com foco em Desenvolvimento Android, aqui irei documentar os projetos sobre. 👩‍💻
+<p align="left"> 
+  Olá, seja bem-vindo(a)! aqui faço a documentação de todos os projetos de <strong>Quality Assurance</strong>.<br>
+  Graduanda em Análise e Desenvolvimento de Sistemas.
+</p>
 
+<p align="left">
+  🦄 Linguagens: <strong>Ruby</strong>
+</p>
 
-----
+<p align="left">
+  💼 Ferramentas: <strong>Cucumber, Selenium e Capybara.</strong>
+</p>
 
-## 🚀 Habilidades (Em desenvolvimento)
+<p align="left">
+  😎 Conhecimentos em breve (interesse): <strong>Java, Python.</strong>
+</p>
 
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android"/></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin"/></code>
+<p align="left">
+  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+</p>
 
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=aline.santana.qa@gmail.com" /></a>
 
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aline-sousa-santana-131535256/" /></a>
 
-## 📱 Ferramentas 
-
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma"/></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ"/></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android-Studio"/></code>
-
-
-
-            
-       
-           
-            
-           
-          
-          
-
-           
-          
-
-           
-          
-          
-            
-          
-          
-
-
-          
-         
-          
-          
-          
-
-      
-          
-  
-
-          
-
-           
-            
-          
-          
-           
-          
-
-
-          
-          
-          
-
-
-## 👀 Habilidades (Em Breve)
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter"/></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart"/></code>
-
-
-
-
-
-
-
-          
-           
-          
-    
-
-
-           
-          
-
-
-        
-          
-
-           
-          
-          
-            
-          
-
-           
-           
-          
-          
-
-
-            
-          
-
-           
-          
-
-
-            
-           
-          
-          
-            
-          
-
-
-          
