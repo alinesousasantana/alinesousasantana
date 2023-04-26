@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  😎 Conhecimentos em breve (interesse): <strong>Java, Python.</strong>
+  😎 Conhecimentos em breve (interesse): <strong>Java, JS/Cypress.</strong>
 </p>
 
 <p align="left">
