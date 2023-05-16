@@ -6,15 +6,15 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Ruby</strong>
+  🦄 Linguagens: <strong>C#</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Capybara, Cucumber, Selenium.</strong>
+  💼 Ferramentas: <strong>Vscode, Visual Studio</strong>
 </p>
 
 <p align="left">
-  😎 Conhecimentos em breve (interesse): <strong>Java, JS/Cypress.</strong>
+  😎 Conhecimentos em breve (interesse): <strong>Java, Python.</strong>
 </p>
 
 <p align="left">
@@ -23,7 +23,7 @@
 
 <p align="left">
   <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=aline.santana.qa@gmail.com" /></a>
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=aline.santana.dev10@gmail.com" /></a>
 
   <a href="#" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aline-sousa-santana-131535256/" /></a>
