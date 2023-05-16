@@ -6,15 +6,15 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>C#</strong>
+  🦄 Linguagens: <strong>Kotlin</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Vscode, Visual Studio</strong>
+  💼 Ferramentas: <strong>Intellij Idea, Android Studio, Figma (UX/UI)</strong>
 </p>
 
 <p align="left">
-  😎 Conhecimentos em breve (interesse): <strong>Java, Python.</strong>
+  😎 Conhecimentos em breve (interesse): <strong>híbrido com Flutter.</strong>
 </p>
 
 <p align="left">
