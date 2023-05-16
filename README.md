@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  😎 Conhecimentos em breve (interesse): <strong>híbrido com Flutter.</strong>
+  😎 Conhecimentos em breve (interesse): <strong>Híbrido com Flutter.</strong>
 </p>
 
 <p align="left">
