@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Kotlin</strong>
+  🦄 Linguagens: <strong>Dart com Flutter</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Intellij Idea, Android Studio, Figma (UX/UI)</strong>
+  💼 Ferramentas: <strong>Vscode, Android Studio, Figma (UX/UI)</strong>
 </p>
 
 <p align="left">
