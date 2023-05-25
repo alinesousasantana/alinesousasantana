@@ -6,15 +6,15 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Kotlin (Android)</strong>
+  🦄 Linguagens: <strong>Dart/Flutter</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>IntelijjIdea, Android Studio, Figma (UX/UI)</strong>
+  💼 Ferramentas: <strong>Vscode, Android Studio, Figma (UX/UI)</strong>
 </p>
 
 <p align="left">
-  😎 Conhecimentos em breve (interesse): <strong>Nativo IOS/Flutter.</strong>
+  😎 Conhecimentos em breve (interesse): <strong>Nativo IOS.</strong>
 </p>
 
 <p align="left">
