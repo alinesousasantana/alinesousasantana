@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá, seja bem-vindo(a)! aqui faço a documentação de todos os projetos de <strong>Quality Assurance</strong>.<br>
+  Olá, seja bem-vindo(a)! aqui faço a documentação de todos os projetos de <strong>Desenvolvimento Mobile</strong>.<br>
   Graduanda em Análise e Desenvolvimento de Sistemas.
 </p>
 
