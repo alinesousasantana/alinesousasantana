@@ -5,5 +5,5 @@ Me chamo Aline, sou do Brasil e atualmente faço ADS (Análise e Desenvolvimento
 📊 Passionate about Data Science!
 
 Reach me out:
-* LinkedIn: [Kailane Felix](https://www.linkedin.com/in/aline-sousa-santana-131535256/)
+* LinkedIn: [Aline Santana](https://www.linkedin.com/in/aline-sousa-santana-131535256/)
 * E-mail: alinesousa.data@gmail.com
