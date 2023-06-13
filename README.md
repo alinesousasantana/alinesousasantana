@@ -6,4 +6,4 @@ Me chamo Aline, sou do Brasil e atualmente faço ADS (Análise e Desenvolvimento
 
 Reach me out:
 * LinkedIn: [Aline Santana](https://www.linkedin.com/in/aline-sousa-santana-131535256/)
-* E-mail: aline.santana.dev10@gmail.com
+* E-mail: alinesousa.data@gmail.com
