@@ -1,8 +1,7 @@
-## Hey, tudo bem?! 
+## Hey, what's up?! 
 
-Me chamo Aline, sou do Brasil e atualmente faço ADS (Análise e Desenvolvimento de Sistemas) pela FAMETRO.
-
-📊 Passionate about Technology !
+I'm from Brazil and currently I do ADS (analysis and systems development) at the university "FAMETRO"
+<p>📱 Passionate about Technology and Android Development!</p>
 
 Reach me out:
 * LinkedIn: [Aline Santana](https://www.linkedin.com/in/aline-sousa-santana-131535256/)
