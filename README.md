@@ -6,4 +6,4 @@ I'm from Brazil and currently I do ADS (analysis and systems development) at the
 
 Reach me out:
 * LinkedIn: [Aline Santana](https://www.linkedin.com/in/aline-sousa-santana-131535256/)
-* E-mail: alinesousa.data@gmail.com
+* E-mail: aline.santana.dev10@gmail.com
