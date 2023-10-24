@@ -1,7 +1,7 @@
 ## Hey, welcome 💻 !  
 
 I'm from Brazil and currently I do ADS (analysis and systems development) at the university "FAMETRO"
-<p>Passionate about Technology 💻🔵</p>
+<p>Passionate about Technology, Python Ecosystem, IA and Data Science 💻📊🤖</p>
 
 
 Reach me out:
