@@ -1,7 +1,7 @@
 ## Hey, welcome 💻 !  
 
 I'm from Brazil and currently I do ADS (analysis and systems development) at the university "FAMETRO"
-<p>Passionate about Technology, UX/UI and Frontend Ecosystem 🎨💻</p>
+<p>Passionate about Dart, UX/UI and Flutter Ecosystem 🎨💻</p>
 
 
 Reach me out:
