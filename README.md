@@ -1,7 +1,7 @@
 ## Hey, welcome 💻 !  
 
 I'm from Brazil and currently I do ADS (analysis and systems development) at the university "FAMETRO"
-<p>Passionate about Technology, UI and Frontend 💻</p>
+<p>Passionate about Technology and Backend 💻</p>
 
 
 Reach me out:
